@@ -1,17 +1,28 @@
-# < Welcome />! 👋
+# <p align="center">< Welcome />! 
 
-![lang](https://img.shields.io/badge/lang-pt--br-blue)
+<p align="center">
+  <img src="https://img.shields.io/badge/lang-pt--br-blue" alt="Language" />
+</p>
 
-## Software Engineer Student
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&width=700&lines=Hi+👋,+I'm+Livia;Software+Engineer+Student;💻+Coding+the+future,+one+bit+at+a+time." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="img/code.gif" alt="Code Animation" width="400" />
+</p>
+
+---
+
+<h3 align="center"> Let's Connect:</h3>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/livia-bontempo-leite-b684aa282/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liviabontempoleite@gmail.com)
 
-- 👩🏻‍💻 Hi, I'm Livia Bontempo.
-- 📍 From Belo Horizonte, Minas Gerais, BR.
-- 🤝 Ready for complex challenges.
+<div/>
 
----
 
 ## Skills 💻
 

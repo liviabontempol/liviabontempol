@@ -1,9 +1,3 @@
-# <p align="center">< Welcome />! 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/lang-pt--br-blue" alt="Language" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9D00FF&center=true&width=700&lines=Hi+,+I'm+Livia!;Software+Engineering+Student" alt="Typing SVG" />
 </p>

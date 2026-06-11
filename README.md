@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&width=700&lines=Hi+,+I'm+Livia!;Software+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9D00FF&center=true&width=700&lines=Hi+,+I'm+Livia!;Software+Engineering+Student" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="img/code.gif" alt="Code Animation" width="400" />
+  <img src="img/gif.gif" alt="Code Animation" width="400" />
 </p>
 
 ---
